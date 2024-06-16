@@ -15,7 +15,7 @@ print out the order receipt
 
 ## Location
 
-Code is located: 
+Code is located: https://github.com/Sami-Mangal/python-challenge-1/blob/main/menu.py
 
 ## Steps
 
