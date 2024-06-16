@@ -1,5 +1,5 @@
-# python-challenge-1Food Truck Ordering System
-## This is Module 2 challenge. This consists of python code for Food Truck ordering system.
+### python-challenge-1    Food Truck Ordering System
+##### This is Module 2 challenge. This consists of python code for Food Truck ordering system.
 
 
 ## Table of Contents
